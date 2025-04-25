@@ -1,5 +1,9 @@
-  ## Sobre
-  A New Generation é um time de desenvolvimento da Fatec São José dos Campos atualmente no 5 semestre de tecnologia em Banco de Dados
+  ## ✨ Sobre
+
+A **New Generation** é um time de desenvolvimento formado por estudantes do 5º semestre do curso de Tecnologia em Banco de Dados da **Fatec São José dos Campos**.  
+
+Nosso objetivo é criar soluções inovadoras e de alta qualidade, aplicando na prática os conhecimentos adquiridos ao longo da graduação. Acreditamos no poder da colaboração, na busca constante por aprendizado e na construção de um futuro promissor na área de tecnologia.
+
   ## Contribuidores 👨‍💻👩‍💻
 
 
